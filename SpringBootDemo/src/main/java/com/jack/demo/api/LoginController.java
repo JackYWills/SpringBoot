@@ -15,6 +15,7 @@ public class LoginController {
 	public Map<String, Object> login(){
 		Map<String,Object> map = new HashMap<String,Object>();
 		map.put("悟空","是只猴子");
+		map.put("悟空1","是只猴子");
 		return map;
 	}
 	
